@@ -11,5 +11,10 @@
 
 ![Изображение](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_36.png "16")
 
+tar.gz архивнаходится по ссслыке: https://github.com/vmmaltsev/08-ansible-06-module/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
+
+collection находится по ссылке: https://github.com/vmmaltsev/my_own_collection
+
+ссылка на тег 1.0.0 collection: https://github.com/vmmaltsev/my_own_collection/releases/tag/1.0.0
 
 
